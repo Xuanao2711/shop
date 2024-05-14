@@ -1,0 +1,23 @@
+.elementor-23 .elementor-element.elementor-element-b1f00c3{--display:flex;--flex-direction:row;--container-widget-width:initial;--container-widget-height:100%;--container-widget-flex-grow:1;--container-widget-align-self:stretch;--flex-wrap:nowrap;--background-transition:0.3s;--padding-top:10px;--padding-bottom:10px;--padding-left:10px;--padding-right:10px;}.elementor-23 .elementor-element.elementor-element-c68e10e{--display:flex;--flex-direction:row;--container-widget-width:calc( ( 1 - var( --container-widget-flex-grow ) ) * 100% );--container-widget-height:100%;--container-widget-flex-grow:1;--container-widget-align-self:stretch;--justify-content:flex-start;--align-items:center;--background-transition:0.3s;--padding-top:0px;--padding-bottom:0px;--padding-left:0px;--padding-right:0px;}.elementor-23 .elementor-element.elementor-element-c68e10e.e-con{--flex-grow:0;--flex-shrink:0;}.elementor-23 .elementor-element.elementor-element-0a060e6 > .elementor-widget-container{padding:0px 0px 0px 0px;}.elementor-23 .elementor-element.elementor-element-c82c334{--display:flex;--flex-direction:row;--container-widget-width:calc( ( 1 - var( --container-widget-flex-grow ) ) * 100% );--container-widget-height:100%;--container-widget-flex-grow:1;--container-widget-align-self:stretch;--justify-content:flex-end;--align-items:center;--flex-wrap:nowrap;--background-transition:0.3s;--padding-top:0px;--padding-bottom:0px;--padding-left:0px;--padding-right:0px;}.elementor-23 .elementor-element.elementor-element-b01fd39 .elementor-menu-toggle{margin-right:auto;}.elementor-23 .elementor-element.elementor-element-b01fd39 .elementor-nav-menu .elementor-item{font-family:"utm-avobold", Sans-serif;font-weight:600;}.elementor-23 .elementor-element.elementor-element-b01fd39 .elementor-nav-menu--main .elementor-item:hover,
+					.elementor-23 .elementor-element.elementor-element-b01fd39 .elementor-nav-menu--main .elementor-item.elementor-item-active,
+					.elementor-23 .elementor-element.elementor-element-b01fd39 .elementor-nav-menu--main .elementor-item.highlighted,
+					.elementor-23 .elementor-element.elementor-element-b01fd39 .elementor-nav-menu--main .elementor-item:focus{color:#000000;fill:#000000;}.elementor-23 .elementor-element.elementor-element-b01fd39 .elementor-nav-menu--main:not(.e--pointer-framed) .elementor-item:before,
+					.elementor-23 .elementor-element.elementor-element-b01fd39 .elementor-nav-menu--main:not(.e--pointer-framed) .elementor-item:after{background-color:#FFFFFF00;}.elementor-23 .elementor-element.elementor-element-b01fd39 .e--pointer-framed .elementor-item:before,
+					.elementor-23 .elementor-element.elementor-element-b01fd39 .e--pointer-framed .elementor-item:after{border-color:#FFFFFF00;}.elementor-23 .elementor-element.elementor-element-b01fd39 .elementor-nav-menu--main .elementor-item.elementor-item-active{color:#000000;}.elementor-23 .elementor-element.elementor-element-b01fd39 .elementor-nav-menu--main:not(.e--pointer-framed) .elementor-item.elementor-item-active:before,
+					.elementor-23 .elementor-element.elementor-element-b01fd39 .elementor-nav-menu--main:not(.e--pointer-framed) .elementor-item.elementor-item-active:after{background-color:#000000;}.elementor-23 .elementor-element.elementor-element-b01fd39 .e--pointer-framed .elementor-item.elementor-item-active:before,
+					.elementor-23 .elementor-element.elementor-element-b01fd39 .e--pointer-framed .elementor-item.elementor-item-active:after{border-color:#000000;}.elementor-23 .elementor-element.elementor-element-b01fd39{width:var( --container-widget-width, 81.646% );max-width:81.646%;--container-widget-width:81.646%;--container-widget-flex-grow:0;}.elementor-23 .elementor-element.elementor-element-b01fd39.elementor-element{--flex-grow:0;--flex-shrink:0;}.elementor-23 .elementor-element.elementor-element-83dead3 .elementor-button{font-family:"UTM-Avo", Sans-serif;font-size:7px;font-weight:700;line-height:10px;letter-spacing:0.4px;background-color:#F44438;border-style:solid;border-width:1px 1px 1px 1px;border-color:#0000000D;border-radius:50px 50px 50px 50px;}@media(min-width:768px){.elementor-23 .elementor-element.elementor-element-c68e10e{--width:17%;}}/* Start Custom Fonts CSS */@font-face {
+	font-family: 'utm-avobold';
+	font-style: normal;
+	font-weight: normal;
+	font-display: auto;
+	src: url('https://xuanao2711.github.io/shop/wp-content/uploads/2024/05/utm-avobold.woff') format('woff');
+}
+/* End Custom Fonts CSS */
+/* Start Custom Fonts CSS */@font-face {
+	font-family: 'UTM-Avo';
+	font-style: normal;
+	font-weight: normal;
+	font-display: auto;
+	src: url('https://xuanao2711.github.io/shop/wp-content/uploads/2024/05/UTM-Avo.woff') format('woff');
+}
+/* End Custom Fonts CSS */
